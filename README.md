@@ -51,6 +51,11 @@
 
 <br>
 
+## Gif
+![Gif](./docs/readme/mvp/mvp3/pixels.gif)
+
+<br>
+
 ## MVP
 [![MVP SPRINT 4](https://cdn-icons-png.flaticon.com/256/1384/1384060.png)](https://youtu.be/ABOGftJAD0A?si=lbFesrLnPFxRXtep)
 
